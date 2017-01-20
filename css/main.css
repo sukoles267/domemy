@@ -1,0 +1,53 @@
+body {
+	margin: 0;
+	font-family: 'Arsenal', sans-serif;
+}
+
+nav {
+	background: #182a59;
+	height: auto;
+	width: 100%;
+	position: fixed;
+}
+
+nav a {
+	color: #bbccf7;
+}
+
+nav a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+nav #ul1 li {
+	display: inline;
+	padding: 10px;
+}
+
+nav #ul2 li {
+	display: inline;
+	padding: 10px;
+}
+
+#ul2 {
+	text-align: right;
+}
+
+nav img {
+	float: left;
+	display: inline;
+	margin-top: 15px;
+	height: 2%;
+	width: 2%;
+}
+
+#zarejestruj_sie {
+	color: #fff;
+	background-color: #1bc421;
+	border-radius: 2px;
+	border: none;
+}
+
+#zarejestruj_sie span {
+	padding: 8px;
+}
